@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordRecovery", "wordRecovery\wordRecovery.csproj", "{5F7515B8-5E5B-4F61-BF1E-7961CE9AB983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F7515B8-5E5B-4F61-BF1E-7961CE9AB983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7515B8-5E5B-4F61-BF1E-7961CE9AB983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7515B8-5E5B-4F61-BF1E-7961CE9AB983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7515B8-5E5B-4F61-BF1E-7961CE9AB983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E484D4C5-C3FC-4292-8544-0BDFC7E3D273}
+	EndGlobalSection
+EndGlobal
