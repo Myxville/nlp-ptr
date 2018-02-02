@@ -89,12 +89,14 @@ Higher score means less probability
 |water but all|29.0722376312201|
 
 What about **prb**?
+
 |Suggestion|Score  |
 |--|--|
 | probably | 14.5220429153932 |
 |problem|15.4457447531573|
 
 And the very final test - **ptr** - returns only one single suggestion
+
 |Suggestion|Score  |
 |--|--|
 | potter| 11.7895748701286 |
