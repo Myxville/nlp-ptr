@@ -49,7 +49,7 @@ The quality of candidates will be evaluated as log-probability of the abbreviati
 
 To really test the algorithm, we need a good language model. We were wondering, how well a model could decipher the abbreviations if it had been trained on a deliberately limited corpus - one book on an unusual topic. The first such book that got into our hands was "Harry Potter and the Deathly Hallows". 
 
-Well, let's see how well the hobbit language can help to decipher the modern sports terms.
+Well, let's see how well the magic language can help to decipher the modern sports terms.
 
 Initialize our classes and "read" the book
 
