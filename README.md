@@ -95,7 +95,7 @@ What about **prb**?
 | probably | 14.5220429153932 |
 |problem|15.4457447531573|
 
-And the very final test - **ptr** - returns only one single suggestion
+And the very final test - **pttr** - returns only one single suggestion
 
 |Suggestion|Score  |
 |--|--|
